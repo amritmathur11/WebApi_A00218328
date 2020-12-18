@@ -1,0 +1,8 @@
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\bin\Release\netstandard2.0\SimpleCalc.deps.json
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\bin\Release\netstandard2.0\SimpleCalc.dll
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\bin\Release\netstandard2.0\SimpleCalc.pdb
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\obj\Release\netstandard2.0\SimpleCalc.AssemblyInfoInputs.cache
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\obj\Release\netstandard2.0\SimpleCalc.AssemblyInfo.cs
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\obj\Release\netstandard2.0\SimpleCalc.csproj.CoreCompileInputs.cache
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\obj\Release\netstandard2.0\SimpleCalc.dll
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\obj\Release\netstandard2.0\SimpleCalc.pdb

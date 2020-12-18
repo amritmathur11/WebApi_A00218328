@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SimpleCalc/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/SimpleCalc.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SimpleCalc.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleCalc/1.0.0": {
+      "type": "project",
+      "path": "../SimpleCalc/SimpleCalc.csproj",
+      "msbuildProject": "../SimpleCalc/SimpleCalc.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "SimpleCalc >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\amrit\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Web development\\new2\\phase4\\phase4\\Calculator\\SimpleCalcTests\\ClassUnitTest.csproj",
+      "projectName": "ClassUnitTest",
+      "projectPath": "C:\\Web development\\new2\\phase4\\phase4\\Calculator\\SimpleCalcTests\\ClassUnitTest.csproj",
+      "packagesPath": "C:\\Users\\amrit\\.nuget\\packages\\",
+      "outputPath": "C:\\Web development\\new2\\phase4\\phase4\\Calculator\\SimpleCalcTests\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\amrit\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "C:\\Web development\\new2\\phase4\\phase4\\Calculator\\SimpleCalc\\SimpleCalc.csproj": {
+              "projectPath": "C:\\Web development\\new2\\phase4\\phase4\\Calculator\\SimpleCalc\\SimpleCalc.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

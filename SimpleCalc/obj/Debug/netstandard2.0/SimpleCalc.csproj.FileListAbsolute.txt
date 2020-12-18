@@ -1,0 +1,27 @@
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\bin\Debug\netstandard2.0\SimpleCalc.deps.json
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\bin\Debug\netstandard2.0\SimpleCalc.dll
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\bin\Debug\netstandard2.0\SimpleCalc.pdb
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.AssemblyInfoInputs.cache
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.AssemblyInfo.cs
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.csproj.CoreCompileInputs.cache
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.dll
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.pdb
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.csprojAssemblyReference.cache
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase4\Calculator\SimpleCalc\bin\Debug\netstandard2.0\SimpleCalc.deps.json
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase4\Calculator\SimpleCalc\bin\Debug\netstandard2.0\SimpleCalc.dll
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase4\Calculator\SimpleCalc\bin\Debug\netstandard2.0\SimpleCalc.pdb
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase4\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.csprojAssemblyReference.cache
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase4\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.AssemblyInfoInputs.cache
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase4\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.AssemblyInfo.cs
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase4\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.csproj.CoreCompileInputs.cache
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase4\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.dll
+E:\projects\fixed\2020_12_17_14h(calculatorWep)\phase4\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.pdb
+C:\Web development\new2\phase4\phase4\Calculator\SimpleCalc\bin\Debug\netstandard2.0\SimpleCalc.deps.json
+C:\Web development\new2\phase4\phase4\Calculator\SimpleCalc\bin\Debug\netstandard2.0\SimpleCalc.dll
+C:\Web development\new2\phase4\phase4\Calculator\SimpleCalc\bin\Debug\netstandard2.0\SimpleCalc.pdb
+C:\Web development\new2\phase4\phase4\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.csprojAssemblyReference.cache
+C:\Web development\new2\phase4\phase4\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.AssemblyInfoInputs.cache
+C:\Web development\new2\phase4\phase4\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.AssemblyInfo.cs
+C:\Web development\new2\phase4\phase4\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.csproj.CoreCompileInputs.cache
+C:\Web development\new2\phase4\phase4\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.dll
+C:\Web development\new2\phase4\phase4\Calculator\SimpleCalc\obj\Debug\netstandard2.0\SimpleCalc.pdb
